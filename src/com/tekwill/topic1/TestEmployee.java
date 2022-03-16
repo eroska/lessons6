@@ -1,7 +1,10 @@
+/*
 package com.tekwill.topic1;
 
 public class TestEmployee {
+
     public static void main(String[] args) {
+
 //Crearea obiectului Employee cu denumiree employee001
         Employee employee001;
 
@@ -17,4 +20,8 @@ public class TestEmployee {
         new Employee(employee001.name, employee001.age);
 
     }
+
+
 }
+
+*/
