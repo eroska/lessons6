@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6ee43d-2885-4aa1-b7a6-614f2bc8d7b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic1/TestEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic2/MainPersson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic2/Persson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tekwill/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic1/TestEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic1/TestEmployee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +92,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TestEmployee">
+  <component name="RunManager" selected="Application.MainPersson">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.Main" />
       <module name="lessons6" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPersson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.topic2.MainPersson" />
+      <module name="lessons6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tekwill.topic2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,6 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainPersson" />
         <item itemvalue="Application.TestEmployee" />
         <item itemvalue="Application.Main" />
       </list>
