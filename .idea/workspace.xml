@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6ee43d-2885-4aa1-b7a6-614f2bc8d7b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic2/MainPersson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic2/Persson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic1/TestEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic1/TestEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic2/MainPersson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic2/MainPersson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic2/Persson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic2/Persson.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +89,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="Application.MainPersson">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -146,6 +147,18 @@
       <option name="presentableId" value="Default" />
       <updated>1647170980070</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creating a set of variables and assigning the appropriate access modifiers in a program for keeping track of people.">
+      <created>1647424255417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647424255417</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creating a set of variables and assigning the appropriate access modifiers in a program for keeping track of people." />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a set of variables and assigning the appropriate access modifiers in a program for keeping track of people." />
   </component>
 </project>
