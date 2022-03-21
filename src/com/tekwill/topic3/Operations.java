@@ -3,8 +3,6 @@ package com.tekwill.topic3;
 public class Operations {
 
     static void printAritmeticOperations(int a, int b) {
-        /*int a = 5;
-        int b = 15;*/
         System.out.println("Adunarea " + (a + b));
         System.out.println("Scaderea " + (a - b));
         System.out.println("Inmultirea " + (a * b));
@@ -20,8 +18,6 @@ public class Operations {
 
 
     static void printRelationarOperation(int a, int b) {
-       /* int a = 5;
-        int b =15;*/
         System.out.println("Equality " + (a == b));
         System.out.println("Not equal " + (a != b));
         System.out.println("Greater " + (a > b));
@@ -32,8 +28,6 @@ public class Operations {
     }
 
     static void printLogicOperations(boolean a, boolean b) {
-       /* boolean a = true;
-        boolean b = false;*/
         System.out.println("AND: " + (a && b));
         System.out.println("OR: " + (a || b));
         System.out.println("Negation: " + (!a));
