@@ -1,22 +1,26 @@
 package com.tekwill.topic2;
 
 public class Persson {
-    private String lastName;
-    private String name;
-    int age;
+    public String lastName;
+    protected String name;
+    private int age;
     char gender;
     double weight;
 
-    public void doSomething() {
+    public void setAge(int ageAttributed) {
 
-        lastName = "Palamarcic";
-        System.out.println("Hi, my last name is: " + lastName);
-        name = "Ruslan";
-        System.out.println("I am: " + name);
-
-        System.out.println("I have:  " + age + " Years old");
-        System.out.println("My gender is: - " + gender);
-        System.out.println("My weight is: - " + weight + " kg");
+        this.age = ageAttributed;
+        System.out.println("Age was populated with the following value " + this.age);
     }
 
+    public int getAge() {
+        return this.age;
+    }
+
+    public void lastName(String rosca) {
+        this.lastName = rosca;
+        System.out.println("My last name is ");
+    }
 }
+
+
