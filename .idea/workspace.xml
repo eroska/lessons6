@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6ee43d-2885-4aa1-b7a6-614f2bc8d7b0" name="Changes" comment="I corrected the code as required, related to variables and Access Modifiers.">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic4/ExecuteMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic4/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic4/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic5as/Cerc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic5as/FiguraGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic5as/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic5as/Patrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic5as/Romb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic3/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic3/Operations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Variables_branch" />
+        <entry key="$PROJECT_DIR$" value="TAC-9_Methods_Branch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -111,7 +109,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.ExecuteMethods">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="ExecuteMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.topic4.ExecuteMethods" />
       <module name="lessons6" />
@@ -131,6 +129,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tekwill.topic3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.topic5as.Main" />
+      <module name="lessons6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tekwill.topic5as.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,26 +172,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.topic1.TestEmployee" />
-      <module name="lessons6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tekwill.topic1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.ExecuteMethods" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ExecuteOperationsMain" />
         <item itemvalue="Application.MainPersson" />
-        <item itemvalue="Application.TestEmployee" />
       </list>
     </recent_temporary>
   </component>
@@ -220,10 +218,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a set of variables and assigning the appropriate access modifiers in a program for keeping track of people." />
     <MESSAGE value="I corrected the code as required, related to variables and Access Modifiers." />
     <option name="LAST_COMMIT_MESSAGE" value="I corrected the code as required, related to variables and Access Modifiers." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tekwill/topic5as/Romb.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
