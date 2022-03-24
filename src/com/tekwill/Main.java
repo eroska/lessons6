@@ -1,10 +1,14 @@
-/*package com.tekwill;
+package com.tekwill;
+
+import com.tekwill.topic4.Methods;
 
 public class Main {
+/*
+    public static void main(String[] args) {
 
-//    public static void main(String[] args) {
-//        System.out.println("Hello All");
-//
-//    }
+Methods methods= new Methods();
+        int result = methods.sum(20,5);
+        System.out.println(result);
+   }*/
 
-  }*/
+  }
