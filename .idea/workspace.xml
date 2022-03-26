@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6ee43d-2885-4aa1-b7a6-614f2bc8d7b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Cerc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/FiguraGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Patrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Romb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic4/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic4/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic5/Cerc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Cerc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic5/FiguraGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/FiguraGeometrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic5/Patrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Patrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic5/Romb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Romb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,11 +99,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.ExecuteMethodsMain">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="ExecuteMethodsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.topic4.ExecuteMethodsMain" />
       <module name="lessons6" />
@@ -128,12 +131,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.topic5.Main" />
       <module name="lessons6" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tekwill.topic5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -166,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.ExecuteMethodsMain" />
         <item itemvalue="Application.ExecuteOperationsMain" />
         <item itemvalue="Application.MainPersson" />
         <item itemvalue="Application.TestEmployee" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

@@ -9,16 +9,26 @@ public class Romb extends FiguraGeometrica {
         return laturaRombului;
     }
 
-    public void setLaturaRombului(double laturaRombului) {
-        this.laturaRombului = laturaRombului;
+    public void setLaturaRombului(double laturaRombului) throws Exception {
+        if (laturaRombului <= 0) {
+            throw new Exception("Valoarea laturii rombului introduse nu poate fi mai mica ca zero ");
+        } else {
+            this.laturaRombului = laturaRombului;
+        }
+
     }
 
     public double getInaltimeaRombului() {
         return inaltimeaRombului;
     }
 
-    public void setInaltimeaRombului(double inaltimeaRombului) {
-        this.inaltimeaRombului = inaltimeaRombului;
+    public void setInaltimeaRombului(double inaltimeaRombului) throws Exception {
+        if (inaltimeaRombului <= 0) {
+            throw new Exception("Valoarea inaltimii rombului introduse nu poate fi mai mica ca zero ");
+        } else {
+            this.inaltimeaRombului = inaltimeaRombului;
+        }
+
     }
 
     @Override

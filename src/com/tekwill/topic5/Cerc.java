@@ -9,8 +9,13 @@ public class Cerc extends FiguraGeometrica {
         return razaCercului;
     }
 
-    public void setRazaCercului(double razaCercului) {
-        this.razaCercului = razaCercului;
+    public void setRazaCercului(double razaCercului) throws Exception {
+        if (razaCercului <= 0) {
+            throw new Exception("Valoarea razei cercului introduse nu poate fi mai mica ca zero ");
+        } else {
+            this.razaCercului = razaCercului;
+
+        }
     }
 
     @Override
