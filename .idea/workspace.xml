@@ -3,13 +3,14 @@
   <component name="ChangeListManager">
 
     <list default="true" id="ed6ee43d-2885-4aa1-b7a6-614f2bc8d7b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic4/ExecuteMethodsMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic4/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic3/ExecuteOperationsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic3/ExecuteOperationsMain.java" afterDir="false" />
-
-      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic3/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic3/Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic5/Cerc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Cerc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic5/FiguraGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/FiguraGeometrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic5/Patrat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Patrat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic5/Romb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Romb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +112,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-
+  <component name="RunManager" selected="Application.Main (1)">
   <component name="RunManager" selected="Application.ExecuteMethodsMain">
     <configuration name="ExecuteMethodsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tekwill.topic4.ExecuteMethodsMain" />
@@ -140,12 +141,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.tekwill.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tekwill.topic5.Main" />
       <module name="lessons6" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tekwill.topic5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,7 +182,7 @@
     </configuration>
     <recent_temporary>
       <list>
-
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.ExecuteMethodsMain" />
 
         <item itemvalue="Application.ExecuteOperationsMain" />
@@ -217,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647876033677</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Using cyclic operations and functions through a Java Program">
+      <created>1648113203123</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648113203123</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

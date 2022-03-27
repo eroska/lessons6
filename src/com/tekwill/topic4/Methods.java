@@ -17,7 +17,7 @@ public class Methods {
             }
             System.out.println("The execution of the for cycle has ended");
 
-            System.out.println("Cclul while sa finisat");
+            System.out.println("The while cycle is over");
 
             System.out.println("The Method was completed");
             return suma;
@@ -47,6 +47,7 @@ public class Methods {
     }
 
     static double sum(float a) {
+
         double suma = 0;
         if (a > 0) {
             while (a > 0) {
