@@ -20,13 +20,13 @@ public class Cerc extends FiguraGeometrica {
 
     @Override
     double returneazaAria() {
-        double aria = pi * razaCercului * razaCercului;
+        aria = pi * razaCercului * razaCercului;
         return aria;
     }
 
     @Override
     double returneazaPerimetru() {
-        double perimetru = 2 * pi * razaCercului;
+        perimetru = 2 * pi * razaCercului;
         return perimetru;
     }
 }

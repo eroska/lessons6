@@ -6,7 +6,7 @@ public class Patrat extends FiguraGeometrica {
 
     @Override
     double returneazaAria() {
-        double aria = lungimeaLaturaPtrat * lungimeaLaturaPtrat;
+        aria = lungimeaLaturaPtrat * lungimeaLaturaPtrat;
         return aria;
     }
 
@@ -25,7 +25,7 @@ public class Patrat extends FiguraGeometrica {
 
     @Override
     double returneazaPerimetru() {
-        double perimetru = 4 * lungimeaLaturaPtrat;
+        perimetru = 4 * lungimeaLaturaPtrat;
         return perimetru;
     }
 }

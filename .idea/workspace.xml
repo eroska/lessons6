@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6ee43d-2885-4aa1-b7a6-614f2bc8d7b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/azure/azureSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic5/Cerc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/Cerc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tekwill/topic5/FiguraGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tekwill/topic5/FiguraGeometrica.java" afterDir="false" />
@@ -100,6 +97,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -217,13 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648113203123</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="OOP Final commit">
+      <created>1648326717302</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648326717302</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a set of variables and assigning the appropriate access modifiers in a program for keeping track of people." />
     <MESSAGE value="I corrected the code as required, related to variables and Access Modifiers." />
     <MESSAGE value="Using cyclic operations and functions through a Java Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using cyclic operations and functions through a Java Program" />
+    <MESSAGE value="OOP Final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Final commit" />
   </component>
 </project>
