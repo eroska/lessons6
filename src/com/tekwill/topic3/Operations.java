@@ -30,6 +30,8 @@ public class Operations {
 
     static void printLogicOperations(boolean a, boolean b) {
 
+
+
         System.out.println("AND: " + (a && b));
         System.out.println("OR: " + (a || b));
         System.out.println("Negation: " + (!a));
