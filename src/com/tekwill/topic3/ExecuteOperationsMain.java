@@ -1,7 +1,6 @@
 package com.tekwill.topic3;
 
 public class ExecuteOperationsMain {
-
     public static void main(String[] args) {
 
         Operations.printAritmeticOperations(5, 15);

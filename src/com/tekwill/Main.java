@@ -1,13 +1,18 @@
 package com.tekwill;
 
-import java.util.Scanner;
+
+import com.tekwill.topic4.Methods;
+
 
 public class Main {
-
+/*
     public static void main(String[] args) {
-        Scanner scanerulMeu = new Scanner(System.in);
-        int varsta = scanerulMeu.nextInt();
-        System.out.println("Valoarea intrudusa este egala cu " + varsta);
-    }
 
-}
+
+Methods methods= new Methods();
+        int result = methods.sum(20,5);
+        System.out.println(result);
+   }*/
+
+  }
+
