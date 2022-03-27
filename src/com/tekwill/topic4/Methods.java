@@ -2,6 +2,7 @@ package com.tekwill.topic4;
 
 public class Methods {
 
+
     static int sum(int firstNumber, int secondNumber) {
         int suma = 0;
         if (firstNumber > secondNumber) {
@@ -23,6 +24,7 @@ public class Methods {
         }
 
 
+
     }
 
     static void sum(double a) {
@@ -40,6 +42,7 @@ public class Methods {
         } else {
             System.out.println("A is less than zero");
 
+
         }
     }
 
@@ -48,6 +51,7 @@ public class Methods {
         double suma = 0;
         if (a > 0) {
             while (a > 0) {
+
                 suma = suma + a;
                 a--;
             }
@@ -59,10 +63,13 @@ public class Methods {
         } else {
             System.out.println("A is less than zero");
 
+
         }
         return suma;
     }
 
 }
+
+
 
 
