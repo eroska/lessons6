@@ -28,18 +28,17 @@ public class Romb extends FiguraGeometrica {
         } else {
             this.inaltimeaRombului = inaltimeaRombului;
         }
-
     }
 
     @Override
     double returneazaAria() {
-        double aria = laturaRombului * inaltimeaRombului;
+        aria = laturaRombului * inaltimeaRombului;
         return aria;
     }
 
     @Override
     double returneazaPerimetru() {
-        double perimetru = 4 * laturaRombului;
+        perimetru = 4 * laturaRombului;
         return perimetru;
     }
 }
