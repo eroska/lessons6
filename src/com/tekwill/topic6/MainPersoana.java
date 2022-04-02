@@ -15,7 +15,6 @@ public class MainPersoana {
         } finally {
             System.out.println("Meniul Principal");
         }
-
         contulPersoanei.transferCatreOPersoana(1500, 12345678, "Ion", 980);
     }
 
