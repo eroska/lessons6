@@ -1,9 +1,5 @@
 package com.tekwill.topic6;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-
 public class ContulPersoanei {
 
     private String numePersoana;
@@ -68,26 +64,5 @@ public class ContulPersoanei {
             System.out.println("Sold insuficient, introduceti o alta suma.");
         }
         return sumaTransferata;
-    }
-
-
-    public void transferCatrePersoanaCareiDateSuntInFisierAruncate(String directoriuFisierDate) throws FileNotFoundException {
-        File dateTransfer007 = new File(directoriuFisierDate);
-        FileReader fileReader007 = new FileReader(directoriuFisierDate);
-    }
-
-    public void transferCatrePersoanaCareiDateSuntInFisierTratare(String directoriuFisierDate) {
-        File dateTransfer007 = new File(directoriuFisierDate);
-        try {
-            FileReader fileReader = new FileReader(dateTransfer007);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-            System.out.println(e.getMessage());
-            System.out.println("Te rog revizue datele introduse ");
-
-
-        } finally {
-            System.out.println(" Datorita la finally Codul va rula Indeferent ce se va mai sus  ");
-        }
     }
 }
